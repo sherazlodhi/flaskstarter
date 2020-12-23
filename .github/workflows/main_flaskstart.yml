@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'flaskstart'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ad65a3fdb4664fbd8d22e624af5372c5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fe70a0668f4b4d35981768ecf2e26a4b }}
